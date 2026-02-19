@@ -18,6 +18,11 @@ Here are some of the contests I've participated in and my placements:
 | Defiapp | Cantina  | 17th | 1 H , 2 M  |
 | PlazaFinance | Sherlock  | 13th | 1 H |
 
+### Private Engagements
+| Client | Worked with | Date | Report |
+| :---:   | :---:    | :---:  | :---: |
+| Panoptic: Next Core: | Code4rena | Feb 2026 | Still private |
+
 <!--
 **0xSilvermist/0xSilvermist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
