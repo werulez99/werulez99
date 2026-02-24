@@ -10,7 +10,7 @@ Here are some of the contests I've participated in and my placements:
 | :---:   | :---:    | :---:  | :---: |
 | Panoptic: Next Core | Code4rena | 1st🥇 | 1 H , 4 M ( 1 solo ) |
 | SukukFi | Code4rena | 3rd🥉 | 1 H , 2 M |
-| Monolith Stablecoin | Sherlock | 4th | 1 H , 1 M |
+| Monolith Stablecoin | Sherlock | 3rd🥉 | 1 H , 1 M |
 | Avon-Contracts | Cantina | 6th | 4 M |
 | Summer.fi | Sherlock  | 6th | 2 M |
 | Nudge.xyz | Code4rena  | 6th | 1 M |
