@@ -1,6 +1,9 @@
 # AboutMe-rulez
 Hi, I'm Merulez, and here is my experience as a security researcher that includes participation in contests. 
-You can find me on Twitter [@Merulez](https://twitter.com/Merulez99) or Discord @werulez99
+- X profile : [Merulez99](https://x.com/Merulez99)
+- Co-founder : https://valvessecurity.com
+## Education
+- Bachelor’s Degree in Computer Systems and Technologies
 
 ## Audit Contests 
 Here are some of the contests I've participated in and my placements:
