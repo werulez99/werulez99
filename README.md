@@ -33,11 +33,13 @@ Here are some of the contests I've participated in and my placements:
 | Defiapp | Cantina  | 17th | 1 H , 2 M  |
 | PlazaFinance | Sherlock  | 13th | 1 H |
 
-### Private Engagements
-| Client | Worked with | Date | Report |
-| :---:   | :---:    | :---:  | :---: |
-| Panoptic | Code4rena | Feb 2026 | Still private |
-| Morpheus | Morpheus | Jun 2025 |	Still Private |
+## Private Engagements
+| Protocol | Worked with | Date | Report |
+|----------|-------------|------|--------|
+| **UniVoucher** | [![UniVoucher](https://img.shields.io/badge/UniVoucher-6566e8?style=flat&logoColor=purple)](https://univoucher.com/) | Mar 2026 | [Report PDF](https://github.com/Valves-Sec/reports/blob/main/UniVaucher.pdf) |
+| **SendToEmail** | [![SendToEmail](https://img.shields.io/badge/SendToEmail-5962ff?style=flat&logoColor=purple)](https://sendtoemail.io/) | Mar 2026 | [Report PDF](https://github.com/Valves-Sec/reports/blob/main/SendToEmail.pdf) |
+| **Panoptic** | [![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white)](https://code4rena.com) | Feb 2026 | Private |
+| **Morpheus** | [![Morpheus](https://img.shields.io/badge/Morpheus-00FF00?style=flat&logoColor=grean)](https://mor.org/) | Jun 2025 | Private 
 
 <!--
 **0xSilvermist/0xSilvermist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
