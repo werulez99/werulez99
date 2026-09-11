@@ -45,10 +45,64 @@ Here are some of the contests I've participated in and my placements:
     <th width="110">:date: Date</th>
     <th width="140">:briefcase: Provider</th>
   </tr>
+    <td align="center"><strong>17</strong></td>
+    <td><a>Pare</a></td>
+    <td>PARE splits ERC-8056 tokenized stocks on Robinhood Chain (chain id 4663) into a principal token (PT) and a yield token (YT) per series, and publishes a public multiplier oracle for lenders.</td>
+    <td align="center">private</td>
+    <td>September 2026</td>
+    <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
+  </tr>
+  <td align="center"><strong>16</strong></td>
+    <td><a>K3-Capital</a></td>
+    <td>Fully asynchronous ERC-7540/ERC-4626 vault wrapper for a trusted smart account or Safe, implementing an epoch-staged deposit and redeem flow with NAV-snapshot-based settlement.</td>
+    <td align="center"><a href="https://github.com/pashov/audits/blob/master/team/pdf/K3-security-review_2026-09-03.pdf">Report PDF</a></td>
+    <td>August 2026</td>
+    <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>15</strong></td>
+    <td>Canton-hackathon-cloakRFQ</td>
+    <td>Private invoice-financing RFQs on Canton.</td>
+    <td align="center"><a href="https://github.com/Valves-Sec/reports/blob/main/RFQ.pdf">Report PDF</a></td>
+    <td>August 2026</td>
+    <td>Canton-hackathon-cloakRFQ</td>
+  </tr>
+    <tr>
+    <td align="center"><strong>14</strong></td>
+    <td><a>Ensemble</a></td>
+    <td>Leveraged perpetuals vault system on HyperEVM</td>
+    <td align="center">private</td>
+    <td>July 2026</td>
+    <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
+  </tr>
+    <tr>
+    <td align="center"><strong>13</strong></td>
+    <td><a href="https://raac.io/">RAAC</a></td>
+    <td>A DeFi lending and borrowing ecosystem powered by Real-World Assets</td>
+    <td align="center">private</td>
+    <td>June 2026</td>
+    <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
+  </tr>
+    <tr>
+    <td align="center"><strong>12</strong></td>
+    <td><a href="https://ezmanager.finance/">EzManager</a></td>
+    <td>EZManager tracks each position from open to close, through every rebalance, capital change, compound and collect</td>
+    <td align="center"><a href="https://github.com/Valves-Sec/reports/blob/main/EzManager.pdf">Report PDF</a></td>
+    <td>May 2026</td>
+    <td><a href="https://ezmanager.finance/">EzManager</a></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>11</strong></td>
+    <td><a href="https://www.flowvest.io/">Flowvest</a></td>
+    <td>Flowvest is a fixed‐term, on‐chain monthly payment tool for predictable stablecoin transfers</td>
+    <td align="center"><a href="https://github.com/Valves-Sec/reports/blob/main/Flowvest.pdf">Report PDF</a></td>
+    <td>May 2026</td>
+    <td><a href="https://www.flowvest.io/">Flowvest</a></td>
+  </tr>
   <tr>
     <td align="center"><strong>10</strong></td>
-    <td><a href="https://www.snuggle.fi/">Olla</a></td>
-    <td>liquid staking protocol on the Aztec network that allows users to deposit AZTEC tokens into an ERC-4626/ERC-7540 vault.</td>
+    <td><a>Olla</a></td>
+    <td>liquid staking protocol on the Aztec network. Users to deposit AZTEC tokens into an ERC-4626/ERC-7540 vault</td>
     <td align="center">private</td>
     <td>Apr 2026</td>
     <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
@@ -56,15 +110,15 @@ Here are some of the contests I've participated in and my placements:
   <tr>
     <td align="center"><strong>9</strong></td>
     <td><a href="https://www.snuggle.fi/">Snuggle</a></td>
-    <td>Zero-swap LP rebalancing on Base and Arbitrum. No swap fees. No slippage. Just yield and passive income.</td>
-    <td align="center">private</td>
+    <td>Zero-swap Liquidity Manager on Base and Arbitrum. Yield and passive income</td>
+    <td align="center"><a href="https://github.com/Valves-Sec/reports/blob/main/Snuggle-MaxFi.pdf">Report PDF</a></td>
     <td>Apr 2026</td>
     <td><a href="https://www.snuggle.fi/">Snuggle</a></td>
   </tr>
   <tr>
     <td align="center"><strong>8</strong></td>
     <td><a href="https://www.need4audit.xyz/">need4audit</a></td>
-    <td>Web3 security audit marketplace connecting protocols with vetted auditors for on-demand smart contract reviews</td>
+    <td>Web3 security audit marketplace connecting protocols with auditors for smart contract reviews</td>
     <td align="center"><a href="https://github.com/Valves-Sec/reports/blob/main/Need4Audit.pdf">Report PDF</a></td>
     <td>Mar 2026</td>
     <td><a href="https://www.need4audit.xyz/">need4audit</a></td>
@@ -72,15 +126,15 @@ Here are some of the contests I've participated in and my placements:
   <tr>
     <td align="center"><strong>7</strong></td>
     <td>Opinion</td>
-    <td>Decentralized opinion and sentiment protocol</td>
-    <td align="center">private</td>
+    <td>UUPS-upgradeable dispute resolution contract for prediction market settlement</td>
+    <td align="center"><a href="https://github.com/pashov/audits/blob/master/team/pdf/Opinion-security-review_2026-03-24.pdf">Report PDF</a></td>
     <td>Mar 2026</td>
     <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
   </tr>
   <tr>
     <td align="center"><strong>6</strong></td>
     <td>Gemint</td>
-    <td>Gemstone-backed NFT minting and tokenization platform</td>
+    <td>An upgradeable NFT and gacha controller system for physical collectible cards</td>
     <td align="center">private</td>
     <td>Mar 2026</td>
     <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
@@ -88,7 +142,7 @@ Here are some of the contests I've participated in and my placements:
   <tr>
     <td align="center"><strong>5</strong></td>
     <td><a href="https://panoptic.xyz/">Panoptic</a></td>
-    <td>Permissionless, oracle-free perpetual options protocol built on Uniswap V3 that enables trading of put and call options by leveraging LP positions as the options primitive</td>
+    <td>Built on Uniswap V3 that enables trading of put and call options by leveraging LP positions</td>
     <td align="center"><a href="https://github.com/Valves-Sec/reports/blob/main/Panoptic.pdf">Report PDF</a></td>
     <td>Mar 2026</td>
     <td><a href="https://panoptic.xyz/">Panoptic</a></td>
@@ -96,7 +150,7 @@ Here are some of the contests I've participated in and my placements:
   <tr>
     <td align="center"><strong>4</strong></td>
     <td><a href="https://univoucher.com/">UniVoucher</a></td>
-    <td>On-chain gift card protocol enabling users to wrap any ERC-20 token into redeemable NFT vouchers for gifting and payments</td>
+    <td>On-chain gift card protocol enabling users to wrap any ERC-20 into redeemable NFT vouchers for gifting</td>
     <td align="center"><a href="https://github.com/Valves-Sec/reports/blob/main/UniVaucher.pdf">Report PDF</a></td>
     <td>Mar 2026</td>
     <td><a href="https://univoucher.com/">UniVoucher</a></td>
@@ -104,7 +158,7 @@ Here are some of the contests I've participated in and my placements:
   <tr>
     <td align="center"><strong>3</strong></td>
     <td><a href="https://sendtoemail.io/">Sendtoemail</a></td>
-    <td>Protocol enabling trustless crypto transfers via email address as the recipient identifier, abstracting away wallet complexity</td>
+    <td>Trustless crypto transfers via email address as the recipient identifier, abstracting away wallet complexity</td>
     <td align="center"><a href="https://github.com/Valves-Sec/reports/blob/main/SendToEmail.pdf">Report PDF</a></td>
     <td>Mar 2026</td>
     <td><a href="https://sendtoemail.io/">Sendtoemail</a></td>
@@ -112,7 +166,7 @@ Here are some of the contests I've participated in and my placements:
   <tr>
     <td align="center"><strong>2</strong></td>
     <td><a href="https://panoptic.xyz/">Panoptic</a></td>
-    <td>Permissionless, oracle-free perpetual options protocol built on Uniswap V3 — core contract security review</td>
+    <td>Permissionless, oracle-free perpetual options protocol built on Uniswap V3</td>
     <td align="center">private</td>
     <td>Feb 2026</td>
     <td><a href="https://code4rena.com">Code4rena</a></td>
@@ -120,22 +174,139 @@ Here are some of the contests I've participated in and my placements:
   <tr>
     <td align="center"><strong>1</strong></td>
     <td><a href="https://mor.org/">Morpheus</a></td>
-    <td>Decentralized peer-to-peer network for running AI Smart Agents, connecting users with crypto wallets and Web3 resources via the MOR token incentive layer</td>
+    <td>Decentralized peer-to-peer network for running AI Smart Agents, connecting users with crypto wallets</td>
     <td align="center">private</td>
     <td>Jun 2025</td>
     <td><a href="https://mor.org/">Morpheus</a></td>
   </tr>
 </table>
+---
 
-<!--
-**0xSilvermist/0xSilvermist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :crossed_swords: Public Competitions
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+<table>
+  <thead>
+    <tr>
+      <th width="220">Protocol</th>
+      <th width="120">Type</th>
+      <th width="160">Platform</th>
+      <th width="200">Findings</th>
+      <th width="80">Rank</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Panoptic: Next Core</strong></td>
+      <td>Options</td>
+      <td><a href="https://code4rena.com"><img src="https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white" alt="Code4rena"></a></td>
+      <td>1 H · 4 M <em>(solo)</em> · 1 L</td>
+      <td align="center"><strong>#1</strong> 🥇</td>
+    </tr>
+    <tr>
+      <td><strong>Monolith Stablecoin</strong></td>
+      <td>Stablecoin</td>
+      <td><a href="https://sherlock.xyz"><img src="https://img.shields.io/badge/Sherlock-black?style=flat&logoColor=white" alt="Sherlock"></a></td>
+      <td>1 H · 1 M</td>
+      <td align="center"><strong>#3</strong> 🥉</td>
+    </tr>
+    <tr>
+      <td><strong>SukukFi</strong></td>
+      <td>Yield</td>
+      <td><a href="https://code4rena.com"><img src="https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white" alt="Code4rena"></a></td>
+      <td>1 H · 2 M</td>
+      <td align="center"><strong>#3</strong> 🥉</td>
+    </tr>
+    <tr>
+      <td><strong>Flying Tulip</strong></td>
+      <td>Yield</td>
+      <td><a href="https://sherlock.xyz"><img src="https://img.shields.io/badge/Sherlock-black?style=flat&logoColor=white" alt="Sherlock"></a></td>
+      <td>---</td>
+      <td align="center"><strong>#4</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Monetrix</strong></td>
+      <td>Yield</td>
+      <td><a href="https://code4rena.com"><img src="https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white" alt="Code4rena"></a></td>
+      <td> 33 L</td>
+      <td align="center"><strong>#4</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Avon</strong></td>
+      <td>DeFi</td>
+      <td><a href="https://cantina.xyz"><img src="https://img.shields.io/badge/Cantina-0ea5e9?style=flat&logoColor=white" alt="Cantina"></a></td>
+      <td>1 H · 2 M</td>
+      <td align="center">#6</td>
+    </tr>
+    <tr>
+      <td><strong>Summer.fi</strong></td>
+      <td>Automation</td>
+      <td><a href="https://sherlock.xyz"><img src="https://img.shields.io/badge/Sherlock-black?style=flat&logoColor=white" alt="Sherlock"></a></td>
+      <td>2 M</td>
+      <td align="center">#6</td>
+    </tr>
+    <tr>
+      <td><strong>Nudge.xyz</strong></td>
+      <td>Incentives</td>
+      <td><a href="https://code4rena.com"><img src="https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white" alt="Code4rena"></a></td>
+      <td>1 M</td>
+      <td align="center">#6</td>
+    </tr>
+    <tr>
+      <td><strong>TermMax</strong></td>
+      <td>Fixed Income</td>
+      <td><a href="https://cantina.xyz"><img src="https://img.shields.io/badge/Cantina-0ea5e9?style=flat&logoColor=white" alt="Cantina"></a></td>
+      <td>2 M</td>
+      <td align="center">#9</td>
+    </tr>
+    <tr>
+      <td><strong>Flex Perpetuals</strong></td>
+      <td>Perpetuals</td>
+      <td><a href="https://code4rena.com"><img src="https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white" alt="Code4rena"></a></td>
+      <td>1 M</td>
+      <td align="center">#6</td>
+    </tr>
+  </tbody>
+</table>
+
+## 🛡️ Protocol Contributions
+
+<div align="center">
+
+<table>
+  <tr>
+    <th width="220">Protocol</th>
+    <th width="200">Findings</th>
+    <th width="120">Date</th>
+  </tr>
+  <tr>
+    <td><strong><a href="https://lagoon.finance/">Lagoon</a></strong></td>
+    <td>1 Medium</td>
+    <td>June 2026</td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://www.pred.app/">PRED</a></strong></td>
+    <td>1 Medium</td>
+    <td>June 2026</td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://sukuk.fi/">SukukFi</a></strong></td>
+    <td>1 Medium, 1 Low</td>
+    <td>Jul 2026</td>
+  </tr>
+</table>
+
+</div>
+
+
+---
+
+## Contact
+
+Twitter / X [Merulez99](https://x.com/Merulez99) | [Vesko_210](https://x.com/Vesko_210)
+
+Discord [Merulez99](https://discordapp.com/users/1090978704647266334) | [Vesko210](https://discordapp.com/users/221960514748547076)
+
+Website [Valves Security](https://valvessecurity.com/)
+
