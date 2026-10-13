@@ -47,8 +47,8 @@ Here are some of the contests I've participated in and my placements:
   </tr>
     <tr>
   <td align="center"><strong>22</strong></td>
-    <td><a href="https://www.wincent.com/">Wincent</a></td>
-    <td>Gas-optimized modular DEX-aggregator swap router integrating Uniswap V1-V4, Balancer, Curve and Fluid, plus Lido staking, Maker-PSM stables and MEV backruns.</td>
+    <td><a href="https://www.wincent.com/">Private</a></td>
+    <td>Gas-optimized modular DEX-aggregator swap router.</td>
     <td align="center">private</td>
     <td>September 2026</td>
     <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
