@@ -47,7 +47,7 @@ Here are some of the contests I've participated in and my placements:
   </tr>
     <tr>
   <td align="center"><strong>22</strong></td>
-    <td><a href="https://www.wincent.com/">Private</a></td>
+    <td>Private</td>
     <td>Gas-optimized modular DEX-aggregator swap router.</td>
     <td align="center">private</td>
     <td>September 2026</td>
